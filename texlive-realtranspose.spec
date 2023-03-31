@@ -1,6 +1,6 @@
 Name:		texlive-realtranspose
 Version:	56623
-Release:	1
+Release:	2
 Summary:	The "real" way to transpose a Matrix
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/realtranspose
