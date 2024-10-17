@@ -3,7 +3,7 @@ Version:	56623
 Release:	2
 Summary:	The "real" way to transpose a Matrix
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/realtranspose
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/realtranspose
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/realtranspose.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/realtranspose.doc.r%{version}.tar.xz
